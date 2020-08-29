@@ -3,6 +3,12 @@ import Card from './Card';
 
 const CardList = ({robots}) => {
 
+  // uncomment bellow to test error handling
+
+  // if (true) {
+  //   throw new Error('There was an Error.');
+  // }
+
   const cardComponent = robots.map(
     (user, i) => {
       return (
