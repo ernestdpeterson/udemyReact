@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/udemyReact/static/css/main.36e0d46a.chunk.css",
+    "main.js": "/udemyReact/static/js/main.4d9949fe.chunk.js",
+    "main.js.map": "/udemyReact/static/js/main.4d9949fe.chunk.js.map",
+    "runtime-main.js": "/udemyReact/static/js/runtime-main.768358b0.js",
+    "runtime-main.js.map": "/udemyReact/static/js/runtime-main.768358b0.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/udemyReact/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/udemyReact/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/udemyReact/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/udemyReact/index.html",
+    "precache-manifest.0ecfeaf7ff127c38af5da19dc2426f8b.js": "/udemyReact/precache-manifest.0ecfeaf7ff127c38af5da19dc2426f8b.js",
+    "service-worker.js": "/udemyReact/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/udemyReact/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.36e0d46a.chunk.css.map": "/udemyReact/static/css/main.36e0d46a.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/udemyReact/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/udemyReact/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.768358b0.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.36e0d46a.chunk.css",
+    "static/js/main.4d9949fe.chunk.js"
+  ]
+}
